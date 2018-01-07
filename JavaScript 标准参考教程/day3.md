@@ -17,6 +17,14 @@ var arr = [1,2];
 
 3. Array实例的方法 
    valueOf()、toString()
+4. 
+
+push()   
+pop()  
+shift()  
+unshift()  
+join()  
+
 	
 	
 	
